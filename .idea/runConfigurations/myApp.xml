@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="myApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="UI.myApp" />
+    <module name="my_lab_1" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
